@@ -1,0 +1,27 @@
+ .column {
+     background: linear-gradient(rgb(244, 244, 246), rgb(126, 126, 223), rgb(150, 150, 241));
+ }
+
+ .fluid {
+
+     background: rgb(238, 174, 202);
+     /* height: 40rem; */
+     background: linear-gradient(to bottom, #6b87e3, hsl(206, 43%, 85%));
+
+ }
+ .frame{
+    background: linear-gradient(to bottom, #6b87e3, hsl(206, 43%, 85%));
+ }
+
+
+ .inputField {
+     border: none;
+     outline: none;
+     background: transparent;
+     border-bottom: 2px solid black;
+ }
+ .place{
+    width: 300px;
+    /* margin-left: 29rem; */
+ }
+ 
